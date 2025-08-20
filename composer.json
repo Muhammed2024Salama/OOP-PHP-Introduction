@@ -1,0 +1,10 @@
+{
+  "name": "muhammedsalama/oop-php-introduction",
+  "description": "درس تمهيدي للبرمجة الكائنية باستخدام PHP باللغة العربية",
+  "autoload": {
+    "psr-4": {
+      "OOP\\Introduction\\": "src/Introduction/"
+    }
+  },
+  "require": {}
+}
