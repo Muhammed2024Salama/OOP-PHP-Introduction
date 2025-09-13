@@ -392,3 +392,4 @@ class User {
 - [PHP Classes and Objects](https://www.php.net/manual/en/language.oop5.basic.php)
 - [PHP Object-Oriented Programming](https://www.w3schools.com/php/php_oop_classes_objects.asp)
 
+

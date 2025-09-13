@@ -10,8 +10,8 @@
 
 **دورة شاملة ومهنية لتعلم البرمجة الكائنية في PHP من الصفر إلى الاحتراف**
 
-[![GitHub stars](https://img.shields.io/github/stars/username/OOP-PHP-Introduction?style=social)](https://github.com/username/OOP-PHP-Introduction)
-[![GitHub forks](https://img.shields.io/github/forks/username/OOP-PHP-Introduction?style=social)](https://github.com/username/OOP-PHP-Introduction)
+[![GitHub stars](https://img.shields.io/github/stars/Muhammed2024Salama/OOP-PHP-Introduction?style=social)](https://github.com/Muhammed2024Salama/OOP-PHP-Introduction)
+[![GitHub forks](https://img.shields.io/github/forks/Muhammed2024Salama/OOP-PHP-Introduction?style=social)](https://github.com/Muhammed2024Salama/OOP-PHP-Introduction)
 
 </div>
 
@@ -143,7 +143,7 @@
 ### 2. تثبيت المشروع
 ```bash
 # استنساخ المشروع
-git clone https://github.com/your-username/OOP-PHP-Introduction.git
+git clone https://github.com/Muhammed2024Salama/OOP-PHP-Introduction.git
 cd OOP-PHP-Introduction
 
 # تثبيت التبعيات (اختياري)
@@ -207,7 +207,7 @@ done
 نرحب بمساهماتكم! يمكنكم المساهمة من خلال:
 
 ### 🐛 الإبلاغ عن الأخطاء
-- استخدم [GitHub Issues](https://github.com/username/OOP-PHP-Introduction/issues)
+- استخدم [GitHub Issues](https://github.com/Muhammed2024Salama/OOP-PHP-Introduction/issues)
 - اذكر تفاصيل الخطأ والخطوات لإعادة إنتاجه
 
 ### 💡 اقتراح تحسينات
@@ -235,17 +235,17 @@ done
 ## 👨‍💻 المؤلف
 
 **محمد سلامة**
-- 🌐 **GitHub**: [@muhammedsalama](https://github.com/muhammedsalama)
-- 📧 **Email**: [your-email@example.com]
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 🐦 **Twitter**: [@your_twitter]
+- 🌐 **GitHub**: [@Muhammed2024Salama](https://github.com/Muhammed2024Salama)
+- 📧 **Email**: [devmuhammedsalama@gmail.com](mailto:devmuhammedsalama@gmail.com)
+- 💼 **LinkedIn**: [mohamed2050](https://www.linkedin.com/in/mohamed2050/)
+- 🏠 **الموقع**: القاهرة، مدينة 6 أكتوبر، مصر
 
 ## 📞 التواصل
 
 - **🐛 GitHub Issues**: للإبلاغ عن الأخطاء أو طلب ميزات جديدة
 - **💬 Discussions**: للنقاشات والأسئلة
-- **📧 Email**: للتواصل المباشر
-- **💼 LinkedIn**: للتواصل المهني
+- **📧 Email**: [devmuhammedsalama@gmail.com](mailto:devmuhammedsalama@gmail.com)
+- **💼 LinkedIn**: [mohamed2050](https://www.linkedin.com/in/mohamed2050/)
 
 ## 🎉 شكر وتقدير
 
@@ -278,7 +278,7 @@ done
 
 **🚀 ابدأ رحلتك في تعلم PHP OOP اليوم!**
 
-[![GitHub stars](https://img.shields.io/github/stars/username/OOP-PHP-Introduction?style=social)](https://github.com/username/OOP-PHP-Introduction)
-[![GitHub forks](https://img.shields.io/github/forks/username/OOP-PHP-Introduction?style=social)](https://github.com/username/OOP-PHP-Introduction)
+[![GitHub stars](https://img.shields.io/github/stars/Muhammed2024Salama/OOP-PHP-Introduction?style=social)](https://github.com/Muhammed2024Salama/OOP-PHP-Introduction)
+[![GitHub forks](https://img.shields.io/github/forks/Muhammed2024Salama/OOP-PHP-Introduction?style=social)](https://github.com/Muhammed2024Salama/OOP-PHP-Introduction)
 
 </div>
