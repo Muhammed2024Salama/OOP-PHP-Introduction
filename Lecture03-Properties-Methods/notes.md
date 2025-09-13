@@ -661,3 +661,4 @@ class User {
 - [PHP Methods](https://www.php.net/manual/en/language.oop5.methods.php)
 - [PHP Visibility](https://www.php.net/manual/en/language.oop5.visibility.php)
 
+

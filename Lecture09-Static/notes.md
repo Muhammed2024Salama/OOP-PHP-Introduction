@@ -695,3 +695,4 @@ class Database {
 - [PHP Static Methods](https://www.php.net/manual/en/language.oop5.static.php)
 - [PHP self Keyword](https://www.php.net/manual/en/language.oop5.paamayim-nekudotayim.php)
 
+

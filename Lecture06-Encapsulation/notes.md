@@ -922,3 +922,4 @@ class Product {
 - [PHP Encapsulation](https://www.php.net/manual/en/language.oop5.visibility.php)
 - [PHP Getters and Setters](https://www.php.net/manual/en/language.oop5.visibility.php)
 
+

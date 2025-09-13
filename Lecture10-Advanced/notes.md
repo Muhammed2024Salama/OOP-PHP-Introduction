@@ -800,3 +800,4 @@ class User {
 - [PHP Traits](https://www.php.net/manual/en/language.oop5.traits.php)
 - [PHP Magic Methods](https://www.php.net/manual/en/language.oop5.magic.php)
 
+

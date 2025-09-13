@@ -684,3 +684,4 @@ class User {
 - [PHP Destructors](https://www.php.net/manual/en/language.oop5.decon.php#language.oop5.decon.destructor)
 - [PHP Object Lifecycle](https://www.php.net/manual/en/language.oop5.basic.php)
 
+
